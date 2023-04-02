@@ -1,0 +1,16 @@
+{
+  "homePage" : "Home Page ",
+  "personalInformation": "Personal Information",
+  "name": "Name",
+  "nameHint": "Enter your name ",
+  "email": "Email",
+  "emailHint" : "Enter your email",
+  "dateOfBirth": "Date of Birth",
+  "requiredField": "Required Field",
+  "submitInfo": "Submit Info",
+  "aboutUs": "About Us",
+  "setting": "Setting",
+  "changeLanguage": "Change Language ",
+  "about": "Flutter has come a long way since we last looked into internationalizing a Flutter app using intl and intl_translation. Since then, the cross-platform framework has taken the mobile app development world by storm. With 150K apps and 500K developers in its portfolio, it seems that Flutter—and its delightful development experience—have become a go-to for many developing iOS and Android apps (not to mention web apps). And with the recent Flutter 2 release, the promise of one codebase that works on multiple platforms goes even further: at the time of writing, Flutter 2 supports desktop (Linux, macOS, and Windows) at a near-stable level."
+
+}
